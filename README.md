@@ -22,4 +22,6 @@ Tela de cadastro de linha/rota -> pontos da rota
 
 -O sistema deve calcular se aquela rota da linha é mesmo eficiente baseada nas informações coletadas previamente(ficticias) sobre a quantidade de pessoas(media) que entram e saem em cada ponto e a distancia dos pontos.
 
--Baseado no calculo de eficiencia o sistema deve mostrar a rota atual da linha e uma sugestão de rota mais eficiente
+-Baseado no calculo de eficiencia o sistema deve mostrar a rota atual da linha e uma sugestão de rota mais eficientes
+
+TADEUUUUUU
