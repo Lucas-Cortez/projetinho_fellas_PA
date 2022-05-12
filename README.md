@@ -13,10 +13,10 @@ Tela de cadastro de linha/rota -> pontos da rota
 
 --Pico de passageiros
 
--- O sistema deve ter cadastro e login de usuários(nome, cpf, email, senha)
--- O sistema deve ter cadastro de pontos de onibus(localização,
--- O sistema deve ter cadastro de linhas
--- O sistema deve ter cadastro de onibus
+- O sistema deve ter cadastro e login de usuários(nome, cpf, email, senha)
+- O sistema deve ter cadastro de pontos de onibus(localização,
+- O sistema deve ter cadastro de linhas
+- O sistema deve ter cadastro de onibus
 
 -A entrada do sistema vai consistir em escolher qual linha o onibus vai usar, em qual dia da semana e qual horário.
 
