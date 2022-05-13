@@ -1,17 +1,18 @@
-Entrada de dados:
+**Calcular eficiência de ponto**
+**Qual linha -> Retornar tela p/ usuário mostrando quantos pontos tem nessa linha**
 
--Qual linha -> Retornar tela p/ usuário mostrando quantos pontos tem nessa linha.
-
--Calcular eficiência de ponto.
-
+## Casos de uso
 ex: Ponto 10 entrou 1 pessoa e ponto 11 entrou pessoas (durante um período x de tempo isso se repete em determinado período). Então removemos o ponto caso a distância entre o 10 e 11 forem razoáveis.
 
----
+## Telas
 
-Tela de cadastro do veículo
-Tela de cadastro de linha/rota -> pontos da rota
+- Tela de cadastro do veículo
+- Tela de cadastro de linha/rota
+- Tela de cadastro de pontos
+- Tela de cadastro do usuário
+- Tela de login do usuário
+- Tela principal com diversas opções
 
---Pico de passageiros
 
 ## Atividades do sistema
 
