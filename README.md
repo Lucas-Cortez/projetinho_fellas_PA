@@ -1,11 +1,11 @@
 # Participantes:
 
-Daniel Carlos de Siqueira Santos - RA: 109681
-Gabriel Tadeu Geromel - RA: 108818
-Gustavo Consoni - RA: 110471
-Heduardo Gabriel Costa - RA: 109439
-Lucas Cortez Sanches - RA: 110434
-Matheus Brandão Cazarin - RA: 110312
+- Daniel Carlos de Siqueira Santos - RA: 109681
+- Gabriel Tadeu Geromel - RA: 108818
+- Gustavo Consoni - RA: 110471
+- Heduardo Gabriel Costa - RA: 109439
+- Lucas Cortez Sanches - RA: 110434
+- Matheus Brandão Cazarin - RA: 110312
 
 ## Estratégia para Levantamento/Elicitação de Requisitos
 
