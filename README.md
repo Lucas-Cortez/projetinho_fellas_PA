@@ -1,3 +1,11 @@
+## Rodar servidor
+
+```bash
+yarn dev
+```
+
+Abra [http://localhost:3000](http://localhost:3000) com o seu browser para ver o resultado.
+
 # Participantes:
 
 - Daniel Carlos de Siqueira Santos - RA: 109681
