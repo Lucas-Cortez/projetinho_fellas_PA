@@ -33,12 +33,13 @@ ex: Ponto 10 entrou 1 pessoa e ponto 11 entrou pessoas (durante um período x de
 
 ## Telas
 
+- Tela de login do usuário
+- Tela de cadastro do usuário
+- Tela principal com diversas opções
 - Tela de cadastro do veículo
 - Tela de cadastro de linha/rota
 - Tela de cadastro de pontos
-- Tela de cadastro do usuário
-- Tela de login do usuário
-- Tela principal com diversas opções
+
 
 ## Requisitos Funcionais, Não-Funcionais e Regras de Negócio
 
